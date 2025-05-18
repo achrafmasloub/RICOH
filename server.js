@@ -43,5 +43,5 @@ app.delete('/data.json', (req, res) => {
   res.status(200).send('Fichier vidé');
 });
 
-const PORT = process.env.PORT || 10000;
+const PORT = process.env.PORT;
 app.listen(PORT, () => console.log(`[INFO] API en écoute sur port ${PORT}`));
