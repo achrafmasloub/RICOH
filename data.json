@@ -1,0 +1,62 @@
+[
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P98",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 16:57:20"
+  },
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P98",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 16:57:36"
+  },
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P98",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 16:57:37"
+  },
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P98",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 16:57:38"
+  },
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P98",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 16:57:39"
+  },
+  {
+    "model": "RICOH-IMC3000",
+    "serial_number": "232Z987298P981",
+    "counters": {
+      "black": 1234,
+      "color": 456,
+      "scan": 789
+    },
+    "timestamp": "2025-05-18 17:15:04"
+  }
+]
